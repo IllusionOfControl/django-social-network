@@ -1,3 +1,7 @@
+_fork https://github.com/suhailvs/django-social-network_
+
+---
+
 # [Django Social Network][2]
 
 [![Python Version](https://img.shields.io/badge/python-3.6-brightgreen.svg)](https://python.org)
